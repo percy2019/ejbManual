@@ -1,0 +1,12 @@
+
+.container{
+    width: 750px;
+    /* border: 1px solid #dddddd; */
+    border-radius: 3px;
+}
+
+.container h2{
+    font-family: 'Roboto', Helvetica;
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 10px;
+}
