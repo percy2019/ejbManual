@@ -1,0 +1,13 @@
+.color-red{
+    color: red;
+}
+.color-blue{
+    color: blue;
+}
+
+.fuente-roboto{
+    font-family: serif, roboto; 
+}
+.fuente-helvetica{
+    font-family: serif, helvetica;
+}
