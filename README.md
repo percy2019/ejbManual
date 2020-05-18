@@ -1,5 +1,8 @@
 # Vue js Basico
 registro de archivos de manera personal
 
-# carga basico de vue js
+# Carga basico de vue js
 Usando archivos fisicos y .js
+
+# Carga basico de vue estilos .css
+Usando Documentos basicos
