@@ -6,3 +6,7 @@ Usando archivos fisicos y .js
 
 # Carga basico de vue estilos .css
 Usando Documentos basicos
+
+## Estilos hoja de calculo
+
+## Script Vuex
